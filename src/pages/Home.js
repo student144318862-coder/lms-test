@@ -61,7 +61,7 @@ const Home = () => {
               <span className="badge-text">Enterprise Learning Platform</span>
             </div>
             <h1 className="hero-title">
-              Advance Your Career with -sathvik
+              Advance Your Career with - Praveen
               <span className="gradient-text"> Professional Learning</span>
             </h1>
             
